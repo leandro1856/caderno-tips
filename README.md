@@ -2,7 +2,8 @@
 
 Página de estudo para a prova oral do TIPS (tradutor e intérprete público), português ⇄ inglês.
 
-- 10 materiais, cerca de 1.900 termos, divididos por seção
+- 11 materiais, cerca de 2.100 termos, divididos por seção
+- Quiz de 60 questões da apostila de revisão final
 - Arguição oral: 50 justificativas-modelo de escolhas tradutórias
 - Tradução de frases (PT → EN e EN → PT) com modelo e notas
 - Flashcards com repetição espaçada (rodadas de 20)
